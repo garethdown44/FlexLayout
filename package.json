@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "extract-text-webpack-plugin": "^0.8.0",
-    "less": "^2.5.1",
+    "less": "^3.0.2",
     "less-loader": "^2.2.0",
     "react": "^0.14.0",
     "react-addons-perf": "^0.14.6",
